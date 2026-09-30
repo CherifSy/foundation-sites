@@ -28,7 +28,7 @@
   "license": "MIT",
   "devDependencies": {
     "array-uniq": "^1.0.2",
-    "autoprefixer": "^6.7.7",
+    "autoprefixer": "^10.6.1",
     "babel-core": "^6.24.1",
     "babel-loader": "^6.4.1",
     "babel-plugin-transform-es2015-arrow-functions": "^6.22.0",
@@ -46,7 +46,7 @@
     "clipboard": "^1.7.1",
     "corejs-typeahead": "^1.1.1",
     "dateformat": "^3.0.0",
-    "doiuse": "^2.6.0",
+    "doiuse": "^6.0.6",
     "foundation-docs": "git+https://github.com/zurb/foundation-docs.git#856ca900f5fae6557a74530d1eeaf7b244736d28",
     "gaze": "^1.1.2",
     "gulp": "^3.8.10",
